@@ -1,4 +1,1 @@
-testing
-=======
-
-just a test
+<p>now it has a home!</p>
